@@ -5,4 +5,4 @@ Just input your box's version number (go to Services > System Setup > System Det
 
 Version numbers sourced from https://settopbox.org/satellite/bskyb/sky-digital/receivers/sky-digibox-stb-versions/
 
-*A few models haven't been confirmed to match up to their version numbers.
+<sup>*A few models haven't been confirmed to match up to their version numbers.</sup>
