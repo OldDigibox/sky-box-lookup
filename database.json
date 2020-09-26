@@ -1,1350 +1,1350 @@
 {
-    "0F0101": {
+    "a0F0101": {
         "name": "Panasonic TP3 (TU-DSB20 (egg))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
         "confirmation": "exists"
     },
-    "0F0102": {
+    "a0F0102": {
         "name": "Panasonic TP3 (TU-DSB20 (egg))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
         "confirmation": "exists"
     },
-    "0F0103": {
+    "a0F0103": {
         "name": "Panasonic TP3 (TU-DSB20 (swoosh))",
         "link:": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
         "confirmation": "exists"
     },
-    "0F0104": {
+    "a0F0104": {
         "name": "Panasonic TP3 (TU-DSB20 (swoosh, silver?))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
         "confirmation": "exists"
     },
-    "0F0201": {
+    "a0F0201": {
         "name": "Panasonic MN2 (TU-DSB30)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
         "confirmation": "referenced"
     },
-    "0F0202": {
+    "a0F0202": {
         "name": "Panasonic MN2 (TU-DSB30)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
         "confirmation": "exists"
     },
-    "0F0203": {
+    "a0F0203": {
         "name": "Panasonic MN2 (TU-DSB30)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
         "confirmation": "referenced"
     },
-    "0F0204": {
+    "a0F0204": {
         "name": "Panasonic MN2 (TU-DSB30)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
         "confirmation": "referenced"
     },
-    "0F0206": {
+    "a0F0206": {
         "name": "Panasonic MN2 (TU-DSB30)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
         "confirmation": "exists"
     },
-    "0F0210": {
+    "a0F0210": {
         "name": "Panasonic MN2 (TU-DSB30)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
         "confirmation": "exists"
     },
-    "0F0301": {
+    "a0F0301": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "exists"
     },
-    "0F0302": {
+    "a0F0302": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "exists"
     },
-    "0F0303": {
+    "a0F0303": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "referenced"
     },
-    "0F0304": {
+    "a0F0304": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "suspected"
     },
-    "0F0305": {
+    "a0F0305": {
         "name": "Panasonic MN2.5?",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "suspected"
     },
-    "0F0306": {
+    "a0F0306": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "exists"
     },
-    "0F0307": {
+    "a0F0307": {
         "name": "Panasonic MN2.5?",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "suspected"
     },
-    "0F0308": {
+    "a0F0308": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "referenced"
     },
-    "0F0309": {
+    "a0F0309": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "suspected"
     },
-    "0F030A": {
+    "a0F030A": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "suspected"
     },
-    "0F030B": {
+    "a0F030B": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "suspected"
     },
-    "0F030C": {
+    "a0F030C": {
         "name": "Panasonic MN2.5 (TU-DSB31)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
         "confirmation": "exists"
     },
-    "0F0401": {
+    "a0F0401": {
         "name": "Panasonic iDTV (TX32DTS3)",
         "link": "N/A",
         "confirmation": "Referenced"
     },
-    "0F0501": {
+    "a0F0501": {
         "name": "Panasonic MN2.8 (TU-DSB40)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb40/",
         "confirmation": "exists"
     },
-    "0F0502": {
+    "a0F0502": {
         "name": "Panasonic MN2.8 (TU-DSB45)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb45/",
         "confirmation": "exists"
     },
-    "0F0601": {
+    "a0F0601": {
         "name": "Panasonic MN3 (TU-DSB50)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb50/",
         "confirmation": "exists"
     },
-    "4E0101": {
+    "a4E0101": {
         "name": "Grundig TP2 (GDS200)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
         "confirmation": "referenced"
     },
-    "4E0202": {
+    "a4E0202": {
         "name": "Grundig TP3 (GDS200)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
         "confirmation": "referenced"
     },
-    "4E0203": {
+    "a4E0203": {
         "name": "Grundig TP3 (GDS200)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
         "confirmation": "referenced"
     },
-    "4E0301": {
+    "a4E0301": {
         "name": "Grundig TP3CD (GDS200 (swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
         "confirmation": "exists"
     },
-    "4E0302": {
+    "a4E0302": {
         "name": "Grundig TP3CD (GDS200 (swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
         "confirmation": "exists"
     },
-    "4E0303": {
+    "a4E0303": {
         "name": "Grundig TP3CD (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0401": {
+    "a4E0401": {
         "name": "Grundig 5512 (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0402": {
+    "a4E0402": {
         "name": "Grundig 5512 (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0403": {
+    "a4E0403": {
         "name": "Grundig 5512 (GDS310/2?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0404": {
+    "a4E0404": {
         "name": "Grundig 5512 (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0405": {
+    "a4E0405": {
         "name": "Grundig 5512 (GDS2000)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E0501": {
+    "a4E0501": {
         "name": "Grundig Aspen (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0502": {
+    "a4E0502": {
         "name": "Grundig Aspen (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0503": {
+    "a4E0503": {
         "name": "Grundig Aspen (GDS3000)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E0601": {
+    "a4E0601": {
         "name": "Thomson Maple (DSI4101)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E0602": {
+    "a4E0602": {
         "name": "Thomson Maple (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0603": {
+    "a4E0603": {
         "name": "Thomson Maple (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0604": {
+    "a4E0604": {
         "name": "Thomson Maple (?)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4E0701": {
+    "a4E0701": {
         "name": "Thomson Banyan (DSI4210)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E0801": {
+    "a4E0801": {
         "name": "Thomson Oak (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4E0802": {
+    "a4E0802": {
         "name": "Thomson Oak (DSI4212?)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4E0803": {
+    "a4E0803": {
         "name": "Thomson Oak (DSI4212C)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4E0901": {
+    "a4E0901": {
         "name": "Thomson Cypress (DSI4214)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4E0902": {
+    "a4E0902": {
         "name": "Thomson Cypress (DSI4214C)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E0903": {
+    "a4E0903": {
         "name": "Thomson Cypress (DSI4214?)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4E0910": {
+    "a4E0910": {
         "name": "Thomson Cypress (DSI4214R)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F0101": {
+    "a4F0101": {
         "name": "Amstrad TP2 (DRX100(egg))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
         "confirmation": "exits"
     },
-    "4F0201": {
+    "a4F0201": {
         "name": "Amstrad TP3 (?)",
         "link": "N/A",
         "confirmation": "suspected"
         },
-    "4F0202": {
+    "a4F0202": {
         "name": "Amstrad TP3 (?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "4F0203": {
+    "a4F0203": {
         "name": "Amstrad TP3 (DRX100(swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
         "confirmation": "exists"
     },
-    "4F0204": {
+    "a4F0204": {
         "name": "Amstrad TP3 (DRX100(swoosh, silver))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
         "confirmation": "exists"
     },
-    "4F0205": {
+    "a4F0205": {
         "name": "Amstrad TP3 (DRX100(swoosh, silver))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
         "confirmation": "exists"
     },
-    "4F0301": {
+    "a4F0301": {
         "name": "Amstrad 5512 (DRX200 (skydigibox))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx200/",
         "confirmation": "exists"
     },
-    "4F0302": {
+    "a4F0302": {
         "name": "Amstrad 5512 (?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx200/",
         "confirmation": "suspected"
     },
-    "4F0303": {
+    "a4F0303": {
         "name": "Amstrad 5512 (?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx200/",
         "confirmation": "suspected"
     },
-    "4F0501": {
+    "a4F0501": {
         "name": "Amstrad DRX300 (DRX300)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F0601": {
+    "a4F0601": {
         "name": "Amstrad DRX400 (DRX400)",
         "link": "https://settopbox.org/amstrad-drx400/",
         "confirmation": "referenced"
     },
-    "4F0602": {
+    "a4F0602": {
         "name": "Amstrad DRX400 (DRX400)",
         "link": "https://settopbox.org/amstrad-drx400/",
         "confirmation": "referenced"
     },
-    "4F0603": {
+    "a4F0603": {
         "name": "Amstrad DRX400 (DRX400)",
         "link": "https://settopbox.org/amstrad-drx400/",
         "confirmation": "referenced"
     },
-    "4F0604": {
+    "a4F0604": {
         "name": "Amstrad DRX400 (DRX400)",
         "link": "https://settopbox.org/amstrad-drx400/",
         "confirmation": "referenced"
     },
-    "4F0701": {
+    "a4F0701": {
         "name": "Amstrad DRX500 (DRX500)",
         "link": "https://settopbox.org/amstrad-drx500/",
         "confirmation": "exists"
     },
-    "4F0801": {
+    "a4F0801": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F0802": {
+    "a4F0802": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F0803": {
+    "a4F0803": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F0804": {
+    "a4F0804": {
         "name": "Amstrad DRX550 (?)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "suspected"
     },
-    "4F0805": {
+    "a4F0805": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F0806": {
+    "a4F0806": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F0807": {
+    "a4F0807": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F080A": {
+    "a4F080A": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F080C": {
+    "a4F080C": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F080D": {
+    "a4F080D": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "4F0810": {
+    "a4F0810": {
         "name": "Amstrad DRX550 (DRX550)",
         "link": "https://settopbox.org/amstrad-drx550/",
         "confirmation": "exists"
     },
-    "6F0101": {
+    "a6F0101": {
         "name": "Sony TP3 (?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s750u/",
         "confirmation": "suspected"
     },
-    "6F0102": {
+    "a6F0102": {
         "name": "Sony TP3 (?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s750u/",
         "confirmation": "suspected"
     },
-    "6F0103": {
+    "a6F0103": {
         "name": "Sony TP3 (?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s750u/",
         "confirmation": "suspected"
     },
-    "6F0104": {
+    "a6F0104": {
         "name": "Sony TP3 (VTX-S750U)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s750u/",
         "confirmation": "referenced"
     },
-    "6F0105": {
+    "a6F0105": {
         "name": "Sony TP3 (VTX-S750U)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s750u/",
         "confirmation": "exists"
     },
-    "6F0106": {
+    "a6F0106": {
         "name": "Sony TP3 (VTX-S750U)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s750u/",
         "confirmation": "referenced"
     },
-    "6F0201": {
+    "a6F0201": {
         "name": "Sony Emma (VTX-S760U)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/sony/sony-vtx-s760u/",
         "confirmation": "exists"
     },
-    "9F0101": {
+    "a9F0101": {
         "name": "Pace TP2 (?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0102": {
+    "a9F0102": {
         "name": "Pace TP2 (BSKYB2200 (egg))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "exists"
     },
-    "9F0103": {
+    "a9F0103": {
         "name": "Pace TP2 (BSKYB2200)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "referenced"
     },
-    "9F0104": {
+    "a9F0104": {
         "name": "Pace TP2 (BSKYB2200 (egg))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "exists"
     },
-    "9F0201": {
+    "a9F0201": {
         "name": "Pace TP3 (BSKYB2200 (egg, swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "exists"
     },
-    "9F0202": {
+    "a9F0202": {
         "name": "Pace TP3 (BSKYB2300?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0203": {
+    "a9F0203": {
         "name": "Pace TP3 (BSKYB2200?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0204": {
+    "a9F0204": {
         "name": "Pace TP3 (BSKYB2300?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0205": {
+    "a9F0205": {
         "name": "Pace TP3 (BSKYB2200?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0206": {
+    "a9F0206": {
         "name": "Pace TP3 (BSKYB2200 (swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "exists"
     },
-    "9F020A": {
+    "a9F020A": {
         "name": "Pace TP3 (BSKYB2300?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "exists"
     },
-    "9F020B": {
+    "a9F020B": {
         "name": "Pace TP3 (BSKYB2200 (swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "exists"
     },
-    "9F020C": {
+    "a9F020C": {
         "name": "Pace TP3 (BSKYB2200 (swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F020E": {
+    "a9F020E": {
         "name": "Pace TP3 (BSKYB2200?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F020F": {
+    "a9F020F": {
         "name": "Pace TP3 (BSKYB2400?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0211": {
+    "a9F0211": {
         "name": "Pace TP3 (BSKYB2200?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0212": {
+    "a9F0212": {
         "name": "Pace TP3 (BSKYB2400?)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
         "confirmation": "suspected"
     },
-    "9F0301": {
+    "a9F0301": {
         "name": "Pace TP3B1 (BSKYB2200?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0302": {
+    "a9F0302": {
         "name": "Pace TP3B1 (BSKYB2400?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0303": {
+    "a9F0303": {
         "name": "Pace TP3B1 (BSKYB2500B?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0304": {
+    "a9F0304": {
         "name": "Pace TP3B1 (BSKYB2200?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0305": {
+    "a9F0305": {
         "name": "Pace TP3B1 (BSKYB2400)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0306": {
+    "a9F0306": {
         "name": "Pace TP3B1 (BSKYB2500B?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0307": {
+    "a9F0307": {
         "name": "Pace TP3B1 (BSKYB2200/2400/2500B?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0308": {
+    "a9F0308": {
         "name": "Pace TP3B1 (BSKYB2200/2400/2500B?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0309": {
+    "a9F0309": {
         "name": "Pace TP3B1 (BSKYB2200/2400/2500B?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0402": {
+    "a9F0402": {
         "name": "Pace Emma (BSKYB2500N)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "9F0403": {
+    "a9F0403": {
         "name": "Pace Emma (BSKYB2500N)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0404": {
+    "a9F0404": {
         "name": "Pace Emma (BSKYB2500N)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0405": {
+    "a9F0405": {
         "name": "Pace Emma (BSKYB2500N)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0502": {
+    "a9F0502": {
         "name": "Pace 5512 (BSKYB2500S)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0503": {
+    "a9F0503": {
         "name": "Pace 5512 (BSKYB2500S3)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0504": {
+    "a9F0504": {
         "name": "Pace 5512 (BSKYB2500S/S3?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0505": {
+    "a9F0505": {
         "name": "Pace 5512 (BSKYB2500S/S3?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0601": {
+    "a9F0601": {
         "name": "Pace Sabre (BSKYB2500S4)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0602": {
+    "a9F0602": {
         "name": "Pace Sabre (BSKYB2500S4?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0603": {
+    "a9F0603": {
         "name": "Pace Sabre (BSKYB2500S4?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0604": {
+    "a9F0604": {
         "name": "Pace Sabre (BSKYB2500S4?))",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0701": {
+    "a9F0701": {
         "name": "Pace Colt (BSKYB2500S5)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0702": {
+    "a9F0702": {
         "name": "Pace Colt (BSKYB2500S5)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0703": {
+    "a9F0703": {
         "name": "Pace Colt (BSKYB2500S5?)",
         "link": "N/A",
         "confirmation": "suspected"
     },
-    "9F0801": {
+    "a9F0801": {
         "name": "Pace Rapier (BSKYB2600C1)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2600/",
         "confirmation": "exists"
     },
-    "9F0802": {
+    "a9F0802": {
         "name": "Pace Rapier (BSKYB2600C1)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2600/",
         "confirmation": "referenced"
     },
-    "9F0803": {
+    "a9F0803": {
         "name": "Pace Rapier (BSKYB2600C1)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2600/",
         "confirmation": "exists"
     },
-    "9F0804": {
+    "a9F0804": {
         "name": "Pace Rapier (BSKYB2600C1)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2600/",
         "confirmation": "referenced"
     },
-    "9F0901": {
+    "a9F0901": {
         "name": "Pace Javelin (BSKYB1000)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb1000-ds220/",
         "confirmation": "referenced"
     },
-    "9F0902": {
+    "a9F0902": {
         "name": "Pace Javelin (BSKYB1000 (minibox))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb1000-ds220/",
         "confirmation": "exists"
     },
-    "9F0903": {
+    "a9F0903": {
         "name": "Pace Javelin (BSKYB1000)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb1000-ds220/",
         "confirmation": "referenced"
     },
-    "9F0A01": {
+    "a9F0A01": {
         "name": "Pace Cobra (DS430N))",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0A02": {
+    "a9F0A02": {
         "name": "Pace Cobra (DS430N)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "9F0A03": {
+    "a9F0A03": {
         "name": "Pace Cobra (Lite?) (DS430N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0A04": {
+    "a9F0A04": {
         "name": "Pace Cobra (Lite?) (DS430N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0C00": {
+    "a9F0C00": {
         "name": "Pace Fazer (DS440N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0C01": {
+    "a9F0C01": {
         "name": "Pace Fazer (DS440N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0C02": {
+    "a9F0C02": {
         "name": "Pace Fazer (DS440N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0C03": {
+    "a9F0C03": {
         "name": "Pace Fazer (DS440NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F0C04": {
+    "a9F0C04": {
         "name": "Pace Fazer (DS445NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E2004": {
+    "a4E2004": {
         "name": "Thomson Juniper PVR2.5 (DSI6210)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E2122": {
+    "a4E2122": {
         "name": "Thomson PVR3 (DSI8210)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E2139": {
+    "a4E2139": {
         "name": "Thomson PVR3 (DSI8210CSR)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F2001": {
+    "a4F2001": {
         "name": "Amstrad DRX180 PVR2 (DRX180)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F2103": {
+    "a4F2103": {
         "name": "Amstrad DRX280 PVR3 (DRX280)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F2104": {
+    "a4F2104": {
         "name": "Amstrad DRX280 PVR3 (DRX280)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F2118": {
+    "a4F2118": {
         "name": "Amstrad DRX280 PVR3 (DRX280)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2024": {
+    "a9F2024": {
         "name": "Pace PVR1 (BSKYB3000)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2105": {
+    "a9F2105": {
         "name": "Pace PVR2 (BSKYB3100)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2122": {
+    "a9F2122": {
         "name": "Pace PVR2 (BSKYB3100)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2202": {
+    "a9F2202": {
         "name": "Pace PVR3 (TDS470N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2208": {
+    "a9F2208": {
         "name": "Pace PVR3 (TDS470N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2211": {
+    "a9F2211": {
         "name": "Pace PVR3 (TDS470N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2212": {
+    "a9F2212": {
         "name": "Pace PVR3 (TDS470N)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2213": {
+    "a9F2213": {
         "name": "Pace PVR3 (TDS470NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2224": {
+    "a9F2224": {
         "name": "Pace PVR3 (TDS470NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2225": {
+    "a9F2225": {
         "name": "Pace PVR3 (TDS470NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F2301": {
+    "a9F2301": {
         "name": "Pace PVR2.1(?)",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4E3004": {
+    "a4E3004": {
         "name": "Thomson Hermes PVR4 (DSI8215)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4E3006": {
+    "a4E3006": {
         "name": "Thomson Hermes PVR4 (DSI8215)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3101": {
+    "a4F3101": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3102": {
+    "a4F3102": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3103": {
+    "a4F3103": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3104": {
+    "a4F3104": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3105": {
+    "a4F3105": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3106": {
+    "a4F3106": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3107": {
+    "a4F3107": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3108": {
+    "a4F3108": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3109": {
+    "a4F3109": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F310A": {
+    "a4F310A": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F310B": {
+    "a4F310B": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F310C": {
+    "a4F310C": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F310D": {
+    "a4F310D": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3120": {
+    "a4F3120": {
         "name": "Sky/Amstrad DRX890-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3125": {
+    "a4F3125": {
         "name": "Sky/Amstrad DRX890W-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3126": {
+    "a4F3126": {
         "name": "Sky/Amstrad DRX890W-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3127": {
+    "a4F3127": {
         "name": "Sky/Amstrad DRX890W-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3128": {
+    "a4F3128": {
         "name": "Sky/Amstrad DRX890W-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3129": {
+    "a4F3129": {
         "name": "Sky/Amstrad DRX890W-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3133": {
+    "a4F3133": {
         "name": "Sky/Amstrad DRX890WL-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3134": {
+    "a4F3134": {
         "name": "Sky/Amstrad DRX890WL-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3135": {
+    "a4F3135": {
         "name": "Sky/Amstrad DRX890WL-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3136": {
+    "a4F3136": {
         "name": "Sky/Amstrad DRX890WL-C PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3137": {
+    "a4F3137": {
         "name": "Sky/Amstrad DRX890WL PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3138": {
+    "a4F3138": {
         "name": "Sky/Amstrad DRX890WL PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3139": {
+    "a4F3139": {
         "name": "Sky/Amstrad DRX890WL PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3151": {
+    "a4F3151": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3152": {
+    "a4F3152": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3153": {
+    "a4F3153": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3154": {
+    "a4F3154": {
         "name": "Sky/Amstrad DRX895-C PVR6",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3155": {
+    "a4F3155": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3156": {
+    "a4F3156": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3157": {
+    "a4F3157": {
         "name": "Sky/Amstrad DRX895W PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3158": {
+    "a4F3158": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3159": {
+    "a4F3159": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F315A": {
+    "a4F315A": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F315B": {
+    "a4F315B": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F315C": {
+    "a4F315C": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F315D": {
+    "a4F315D": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F315E": {
+    "a4F315E": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F315F": {
+    "a4F315F": {
         "name": "Sky/Amstrad DRX895-C PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3160": {
+    "a4F3160": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3161": {
+    "a4F3161": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3162": {
+    "a4F3162": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3163": {
+    "a4F3163": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3170": {
+    "a4F3170": {
         "name": "Sky/Amstrad DRX895W PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3171": {
+    "a4F3171": {
         "name": "Sky/Amstrad DRX895W PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3172": {
+    "a4F3172": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3173": {
+    "a4F3173": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3174": {
+    "a4F3174": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3175": {
+    "a4F3175": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3176": {
+    "a4F3176": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3177": {
+    "a4F3177": {
         "name": "Sky/Amstrad DRX895 PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3178": {
+    "a4F3178": {
         "name": "Sky/Amstrad DRX895W PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F317A": {
+    "a4F317A": {
         "name": "Sky/Amstrad DRX895-C PVR6",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F317E": {
+    "a4F317E": {
         "name": "Sky/Amstrad DRX895WL PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F317F": {
+    "a4F317F": {
         "name": "Sky/Amstrad DRX895WL PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3180": {
+    "a4F3180": {
         "name": "Sky/Amstrad DRX895WL-C PVR6",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F3181": {
+    "a4F3181": {
         "name": "Sky/Amstrad DRX895WL PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F3182": {
+    "a4F3182": {
         "name": "Sky/Amstrad DRX895WL PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31A1": {
+    "a4F31A1": {
         "name": "Sky/Amstrad DRX895WL PVR6",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31A2": {
+    "a4F31A2": {
         "name": "Sky/Amstrad DRX890-R PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31A3": {
+    "a4F31A3": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31A4": {
+    "a4F31A4": {
         "name": "Sky/Amstrad DRX890-R PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31A5": {
+    "a4F31A5": {
         "name": "Sky/Amstrad DRX890-R PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31A6": {
+    "a4F31A6": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31A7": {
+    "a4F31A7": {
         "name": "Sky/Amstrad DRX890-R PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31A8": {
+    "a4F31A8": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31A9": {
+    "a4F31A9": {
         "name": "Sky/Amstrad DRX890-R PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31B0": {
+    "a4F31B0": {
         "name": "Sky/Amstrad DRX890-R PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31B5": {
+    "a4F31B5": {
         "name": "Sky/Amstrad DRX890W PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31B6": {
+    "a4F31B6": {
         "name": "Sky/Amstrad DRX890W PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31B7": {
+    "a4F31B7": {
         "name": "Sky/Amstrad DRX890W PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31B8": {
+    "a4F31B8": {
         "name": "Sky/Amstrad DRX890W PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31BE": {
+    "a4F31BE": {
         "name": "Sky/Amstrad DRX890WL PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31D1": {
+    "a4F31D1": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31D2": {
+    "a4F31D2": {
         "name": "Sky/Amstrad DRX890-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31D3": {
+    "a4F31D3": {
         "name": "Sky/Amstrad DRX890-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31D4": {
+    "a4F31D4": {
         "name": "Sky/Amstrad DRX890-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31D5": {
+    "a4F31D5": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31D6": {
+    "a4F31D6": {
         "name": "Sky/Amstrad DRX890 PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31E0": {
+    "a4F31E0": {
         "name": "Sky/Amstrad DRX890W PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F31E8": {
+    "a4F31E8": {
         "name": "Sky/Amstrad DRX890WL-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31E9": {
+    "a4F31E9": {
         "name": "Sky/Amstrad DRX890WL-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31EA": {
+    "a4F31EA": {
         "name": "Sky/Amstrad DRX890WL-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31EB": {
+    "a4F31EB": {
         "name": "Sky/Amstrad DRX890WL-Z PVR5",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F31EC": {
+    "a4F31EC": {
         "name": "Sky/Amstrad DRX890WL-Z PVR5",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "973007": {
+    "a973007": {
         "name": "Samsung PVR4/5? (HDSKY)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9730B3": {
+    "a9730B3": {
         "name": "Samsung PVR4/5? (HDSKY)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F3001": {
+    "a9F3001": {
         "name": "Pace PVR4?",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "9F3004": {
+    "a9F3004": {
         "name": "Pace PVR4 (TDS850NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "9F3005": {
+    "a9F3005": {
         "name": "Pace PVR4 (TDS850NB)",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F7001": {
+    "a4F7001": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7002": {
+    "a4F7002": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7003": {
+    "a4F7003": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7004": {
+    "a4F7004": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7005": {
+    "a4F7005": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7006": {
+    "a4F7006": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7007": {
+    "a4F7007": {
         "name": "Sky/Amstrad DRX595",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F701A": {
+    "a4F701A": {
         "name": "Sky/Amstrad DRX595L-C",
         "link": "N/A",
         "confirmation": "exists"
     },
-    "4F7050": {
+    "a4F7050": {
         "name": "Sky/Amstrad DRX595H",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7051": {
+    "a4F7051": {
         "name": "Sky/Amstrad DRX595H",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "4F7081": {
+    "a4F7081": {
         "name": "Sky/Amstrad DRX595H",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "32B001": {
+    "a32B001": {
         "name": "Sky ES140 PVR8",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "32B056": {
+    "a32B056": {
         "name": "Sky ES140 PVR8?",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "32B057": {
+    "a32B057": {
         "name": "Sky ES140 PVR8?",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "32B101": {
+    "a32B101": {
         "name": "Sky ES240 PVR8",
         "link": "N/A",
         "confirmation": "referenced"
     },
-    "32C001": {
+    "a32C001": {
         "name": "Sky ES130 PVR7/Sky EM150",
         "link": "N/A",
         "confirmation": "referenced"
