@@ -263,7 +263,7 @@
         "name": "Amstrad TP2 (DRX100(egg))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
         "confirmation": "exits"
-        },
+    },
     "4F0201": {
         "name": "Amstrad TP3 (?)",
         "link": "N/A",
@@ -278,7 +278,7 @@
         "name": "Amstrad TP3 (DRX100(swoosh))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
         "confirmation": "exists"
-        },
+    },
     "4F0204": {
         "name": "Amstrad TP3 (DRX100(swoosh, silver))",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/amstrad/amstrad-drx100/",
