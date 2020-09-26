@@ -1,1 +1,268 @@
+{
+    "0F0101": {
+        "name": "Panasonic TP3 (TU-DSB20 (egg))",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
+        "confirmation": "exists"
+    },
+    "0F0102": {
+        "name": "Panasonic TP3 (TU-DSB20 (egg))",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
+        "confirmation": "exists"
+    },
+    "0F0103": {
+        "name": "Panasonic TP3 (TU-DSB20 (swoosh))",
+        "link:": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
+        "confirmation": "exists"
+    },
+    "0F0104": {
+        "name": "Panasonic TP3 (TU-DSB20 (swoosh, silver?))",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb20/",
+        "confirmation": "exists"
+    },
+    "0F0201": {
+        "name": "Panasonic MN2 (TU-DSB30)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
+        "confirmation": "referenced"
+    },
+    "0F0202": {
+        "name": "Panasonic MN2 (TU-DSB30)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
+        "confirmation": "exists"
+    },
+    "0F0203": {
+        "name": "Panasonic MN2 (TU-DSB30)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
+        "confirmation": "referenced"
+    },
+    "0F0204": {
+        "name": "Panasonic MN2 (TU-DSB30)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
+        "confirmation": "referenced"
+    },
+    "0F0206": {
+        "name": "Panasonic MN2 (TU-DSB30)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
+        "confirmation": "exists"
+    },
+    "0F0210": {
+        "name": "Panasonic MN2 (TU-DSB30)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb30/",
+        "confirmation": "exists"
+    },
+    "0F0301": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "exists"
+    },
+    "0F0302": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "exists"
+    },
+    "0F0303": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "referenced"
+    },
+    "0F0304": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "suspected"
+    },
+    "0F0305": {
+        "name": "Panasonic MN2.5?",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "suspected"
+    },
+    "0F0306": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "exists"
+    },
+    "0F0307": {
+        "name": "Panasonic MN2.5?",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "suspected"
+    },
+    "0F0308": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "referenced"
+    },
+    "0F0309": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "suspected"
+    },
+    "0F030A": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "suspected"
+    },
+    "0F030B": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "suspected"
+    },
+    "0F030C": {
+        "name": "Panasonic MN2.5 (TU-DSB31)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb31/",
+        "confirmation": "exists"
+    },
+    "0F0401": {
+        "name": "Panasonic iDTV (TX32DTS3)",
+        "link": "N/A",
+        "confirmation": "Referenced"
+    },
+    "0F0501": {
+        "name": "Panasonic MN2.8 (TU-DSB40)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb40/",
+        "confirmation": "exists"
+    },
+    "0F0502": {
+        "name": "Panasonic MN2.8 (TU-DSB45)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb45/",
+        "confirmation": "exists"
+    },
+    "0F0601": {
+        "name": "Panasonic MN3 (TU-DSB50)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/panasonic/panasonic-tu-dsb50/",
+        "confirmation": "exists"
+    },
+    "4E0101": {
+        "name": "Grundig TP2 (GDS200)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
+        "confirmation": "referenced"
+    },
+    "4E0202": {
+        "name": "Grundig TP3 (GDS200)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
+        "confirmation": "referenced"
+    },
+    "4E0203": {
+        "name": "Grundig TP3 (GDS200)",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
+        "confirmation": "referenced"
+    },
+    "4E0301": {
+        "name": "Grundig TP3CD (GDS200 (swoosh))",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
+        "confirmation": "exists"
+    },
+    "4E0302": {
+        "name": "Grundig TP3CD (GDS200 (swoosh))",
+        "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/grundig/grundig-gds200/",
+        "confirmation": "exists"
+    },
+    "4E0303": {
+        "name": "Grundig TP3CD (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0401": {
+        "name": "Grundig 5512 (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0402": {
+        "name": "Grundig 5512 (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0403": {
+        "name": "Grundig 5512 (GDS310/2?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0404": {
+        "name": "Grundig 5512 (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0405": {
+        "name": "Grundig 5512 (GDS2000)",
+        "link": "N/A",
+        "confirmation": "exists"
+    },
+    "4E0501": {
+        "name": "Grundig Aspen (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0502": {
+        "name": "Grundig Aspen (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0503": {
+        "name": "Grundig Aspen (GDS3000)",
+        "link": "N/A",
+        "confirmation": "exists"
+    },
+    "4E0601": {
+        "name": "Thomson Maple (DSI4101)",
+        "link": "N/A",
+        "confirmation": "exists"
+    },
+    "4E0602": {
+        "name": "Thomson Maple (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0603": {
+        "name": "Thomson Maple (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0604": {
+        "name": "Thomson Maple (?)",
+        "link": "N/A",
+        "confirmation": "referenced"
+    },
+    "4E0701": {
+        "name": "Thomson Banyan (DSI4210)",
+        "link": "N/A",
+        "confirmation": "exists"
+    },
+    "4E0801": {
+        "name": "Thomson Oak (?)",
+        "link": "N/A",
+        "confirmation": "suspected"
+    },
+    "4E0802": {
+        "name": "Thomson Oak (DSI4212?)",
+        "link": "N/A",
+        "confirmation": "referenced"
+    },
+    "4E0803": {
+        "name": "Thomson Oak (DSI4212C)",
+        "link": "N/A",
+        "confirmation": "referenced"
+    },
+    "4E0901": {
+        "name": "Thomson Cypress (DSI4214)",
+        "link": "N/A",
+        "confirmation": "referenced"
+    },
+    "4E0902": {
+        "name": "Thomson Cypress (DSI4214C)",
+        "link": "N/A",
+        "confirmation": "exists"
+    },
+    "4E0903": {
+        "name": "Thomson Cypress (DSI4214?)",
+        "link": "N/A",
+        "confirmation": "referenced"
+    },
+    "4E0910": {
+        "name": "Thomson Cypress (DSI4214R)",
+        "link": "N/A",
+        "confirmation": "exists"
+    }
+    
+    
+    
+    
 
+
+}
