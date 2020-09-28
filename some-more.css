@@ -1,0 +1,39 @@
+.some-button {
+    background-color: rgb(221, 221, 221);
+    margin-top: 5px;
+    transition-delay: 0.4ms;
+    border-radius: 10px;
+}
+
+.some-button:hover {
+    background-color: rgb(206, 203, 203);
+}
+
+.boxinfo {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: rgb(201, 201, 201);
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.bitospace {
+    margin-top: 25px;
+}
+
+.helpbutton {
+    color: blue;
+    text-decoration: underline;
+}
+
+.help-text {
+    margin-left: 10px;
+}
+
+.first-help {
+    margin-top: 50px;
+}
+
+.bottom {
+    bottom: 3px;
+}
