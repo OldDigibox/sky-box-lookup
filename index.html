@@ -1,43 +1,44 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Sky Box Lookup Tool</title>
-		<link rel="stylesheet" type="text/css" href="tailwind.css">
-			<script src="output.js"></script>
-		</head>
-		<body>
-			<h1 class='p-3'>Sky Box Model Lookup</h1>
-			<hr>
-				<form class='m-3 text-center'>
-					<label for="version" class='pv-3 pr-3 font-bold'>Version Number</label>
-					<input type="text" id="version" name="version" class='p-3 border'>
-						<input type="submit" value="Submit" class='p-3 border'>
-						</form>
-						<section class='m-3 text-center'>
-							<p>Just click 
-								
-								<b>Submit</b> and the 
-								
-								<b>model name of your box</b> should show below.
-							
-								<br>
-									<br>
-									The part of the returned output in brackets is the model of your box.
-									</p>
-									<p>
-										<i>You can find the version number by going to the 
-									
-											<b>SERVICES</b> page on the EPG,
-									
-											<br> selecting 
-										
-												<b>SYSTEM SETUP</b> and then going to 
-										
-												<b>SYSTEM DETAILS</b>.
-									
-											</i>
-										</p>
-									</section>
-								</body>
-							</html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sky Box Lookup Tool</title>
+    <link rel="stylesheet" type="text/css" href="tailwind.css">
+    <link rel="stylesheet" type="text/css" href="some-more.css">
+    <script defer src="output.js"></script>
+</head>
+<body>
+    <h1 class='p-3'>Sky Box Model Lookup</h1>
+    <hr>
+    <div class='m-3 text-center'>
+        <label for="version" class='pv-3 pr-3 font-bold'>Version Number</label>
+        <input id="textinput" type="text" id="version" name="version" class='p-3 border'>
+        <button class='p-3 border some-button' onclick="getversion()">Submit</button>
+    </div>
 
+
+    <section class='m-3 text-center'>
+        <p>Just click
+            <b>Submit</b> and the
+            <b>model name of your box</b> should show below.
+        </p>
+        <p>
+            <i>You can find the version number by going to the 
+									<b>SERVICES</b> page on the EPG,
+									<br> selecting 
+										<b>SYSTEM SETUP</b> and then going to 
+										<b>SYSTEM DETAILS</b>.
+									</i>
+        </p>
+    </section>
+
+    <hr class="bitospace">
+    <h3 class="pv-3 pr-3 text-center">version number info will be shown below</h3>
+    <center>
+        <div class="text-center boxinfo" id="infocontainer"></div>
+        <h3><a class="helpbutton" href="https://olddigibox.github.io/sky-box-lookup/help.html">help</a></h3>
+    </center>
+
+</body>
+</html>
