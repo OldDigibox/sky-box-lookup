@@ -10,7 +10,7 @@ function getversion() {
 
     //make var name which is a div element
     let name = document.createElement('div')
-    let link = document.createElement('div')
+    let link = document.createElement('a')
     let confirmation = document.createElement('div')
 
 
@@ -19,11 +19,15 @@ function getversion() {
         .then((json) => {
 
             removeDivs()
-                //get name of Version Number
+                //get name of Version Number and set as text
             name.innerText = `Name: ${json["a" + textinput].name}`
-                //get link of Version Number
-            link.innerText = `Link: ${json["a" + textinput].name}`
-                //get confirmation of Version Number
+                //get link of Version Number and set as herf
+            link.href = `${json["a" + textinput].link}`
+                //set target as _blank
+            link.target = "_blank";
+            //get link of Version Number and set text
+            link.innerText = `Link: ${json["a" + textinput].link}`
+                //get confirmation of Version Number and set as text
             confirmation.innerText = `confirmation: ${json["a" + textinput].name}`
 
             addClass()
@@ -42,7 +46,7 @@ function getversion() {
             function addClass() {
                 //add the class infotext to all divs
                 name.className += "infotext";
-                link.className += "infotext";
+                link.className += "infotext helpbutton";
                 confirmation.className += "infotext";
             }
 
@@ -57,7 +61,4 @@ function getversion() {
         .catch(err => {
             console.error(err)
         })
-
-
-
 }
