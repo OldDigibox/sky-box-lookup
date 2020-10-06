@@ -322,7 +322,7 @@
     "a4F0603": {
         "name": "Amstrad DRX400 (DRX400)",
         "link": "https://settopbox.org/amstrad-drx400/",
-        "confirmation": "referenced"
+        "confirmation": "exists"
     },
     "a4F0604": {
         "name": "Amstrad DRX400 (DRX400)",
@@ -450,9 +450,9 @@
         "confirmation": "exists"
     },
     "a9F0202": {
-        "name": "Pace TP3 (BSKYB2300?)",
+        "name": "Pace TP3 (BSKYB2300)",
         "link": "https://settopbox.org/satellite/bskyb/sky-digital/receivers/pace/pace-bskyb2200/",
-        "confirmation": "suspected"
+        "confirmation": "exists"
     },
     "a9F0203": {
         "name": "Pace TP3 (BSKYB2200?)",
@@ -735,6 +735,16 @@
         "confirmation": "exists"
     },
     "a4F2104": {
+        "name": "Amstrad DRX280 PVR3 (DRX280)",
+        "link": "N/A",
+        "confirmation": "exists"
+        },
+    "a4F2112": {
+        "name": "Amstrad DRX280 PVR3 (DRX280)",
+        "link": "N/A",
+        "confirmation": "exists"
+        },
+    "a4F2117": {
         "name": "Amstrad DRX280 PVR3 (DRX280)",
         "link": "N/A",
         "confirmation": "exists"
@@ -1270,9 +1280,14 @@
         "confirmation": "exists"
     },
     "a9F3001": {
-        "name": "Pace PVR4?",
+        "name": "Pace PVR4 (TDS850NB)",
         "link": "N/A",
-        "confirmation": "referenced"
+        "confirmation": "exist"
+    },
+    "a9F3004": {
+        "name": "Pace PVR4 (TDS850NB)",
+        "link": "N/A",
+        "confirmation": "exists"
     },
     "a9F3004": {
         "name": "Pace PVR4 (TDS850NB)",
