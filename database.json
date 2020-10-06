@@ -758,8 +758,18 @@
         "name": "Pace PVR1 (BSKYB3000)",
         "link": "N/A",
         "confirmation": "exists"
-    },
+        },
+    "a9F2101": {
+        "name": "Pace PVR2 (BSKYB3100)",
+        "link": "N/A",
+        "confirmation": "exists"
+        },
     "a9F2105": {
+        "name": "Pace PVR2 (BSKYB3100)",
+        "link": "N/A",
+        "confirmation": "exists"
+            },
+    "a9F2106": {
         "name": "Pace PVR2 (BSKYB3100)",
         "link": "N/A",
         "confirmation": "exists"
