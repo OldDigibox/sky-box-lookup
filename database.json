@@ -758,6 +758,11 @@
         "name": "Pace PVR2 (BSKYB3100)",
         "link": "N/A",
         "confirmation": "exists"
+            },
+    "a9F2133": {
+        "name": "Pace PVR2 (BSKYB3100)",
+        "link": "N/A",
+        "confirmation": "exists"
     },
     "a9F2202": {
         "name": "Pace PVR3 (TDS470N)",
