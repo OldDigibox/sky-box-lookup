@@ -535,9 +535,9 @@
         "confirmation": "exists"
     },
     "a9F0306": {
-        "name": "Pace TP3B1 (BSKYB2500B?)",
+        "name": "Pace TP3B1 (BSKYB2500B)",
         "link": "N/A",
-        "confirmation": "suspected"
+        "confirmation": "exists"
     },
     "a9F0307": {
         "name": "Pace TP3B1 (BSKYB2200/2400/2500B?)",
@@ -750,6 +750,11 @@
         "confirmation": "exists"
     },
     "a9F2105": {
+        "name": "Pace PVR2 (BSKYB3100)",
+        "link": "N/A",
+        "confirmation": "exists"
+            },
+    "a9F2107": {
         "name": "Pace PVR2 (BSKYB3100)",
         "link": "N/A",
         "confirmation": "exists"
