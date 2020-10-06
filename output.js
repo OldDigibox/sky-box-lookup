@@ -28,7 +28,7 @@ function getversion() {
             //get link of Version Number and set text
             link.innerText = `Link: ${json["a" + textinput].link}`
                 //get confirmation of Version Number and set as text
-            confirmation.innerText = `Confirmation: ${json["a" + textinput].name}`
+            confirmation.innerText = `Confirmation: ${json["a" + textinput].confirmation}`
 
             addClass()
             append()
