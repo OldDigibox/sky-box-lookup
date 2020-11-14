@@ -22,8 +22,12 @@ function getversion() {
                 //get name of Version Number and set as text
             name.innerText = `Name: ${json["a" + textinput].name}`
                 //get link of Version Number and set as herf
-            link.href = `${json["a" + textinput].link}`
-                //set target as _blank
+            if (json["a" + textinput].link !== 'N/A') {
+
+                link.href = `${json["a" + textinput].link}`
+            }
+
+            //set target as _blank
             link.target = "_blank";
             //get link of Version Number and set text
             link.innerText = `Link: ${json["a" + textinput].link}`
@@ -46,7 +50,13 @@ function getversion() {
             function addClass() {
                 //add the class infotext to all divs
                 name.className += "infotext";
-                link.className += "infotext helpbutton";
+
+                if (json["a" + textinput].link !== 'N/A') {
+
+                    link.className += "infotext helpbutton";
+                } else {
+                    link.className += "infotext";
+                }
                 confirmation.className += "infotext";
             }
 
